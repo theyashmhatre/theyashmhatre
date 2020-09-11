@@ -10,7 +10,7 @@
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div align="center>
+<div align="center">
 <img alt="Yash's github stats" src="https://github-readme-stats.vercel.app/api?username=theyashmhatre&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ></div>
 
 <p align="center">
