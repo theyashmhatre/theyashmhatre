@@ -3,6 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
    **Education :** Bachelor of Computer Engineering
+   
    **Tech Stacks :** MongoDB, NodeJS, ReactJS, Express, NextJS  |  Blockchain  |  Python Automation  |  Flutter
 -  **Learning :** DevOps
 -  **Languages :** Python, C, JavaScript, Dart
