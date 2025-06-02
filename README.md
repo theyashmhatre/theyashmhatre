@@ -4,9 +4,9 @@
 ### About
    **Education :** Bachelor of Computer Engineering
    
-   **Tech Stacks :** MongoDB, NodeJS, ReactJS, Express, NextJS  |  Blockchain  |  Python Automation  |  Flutter
+   **Tech Stacks :** Java, SpringBoot, Hibernate, MySQL | MongoDB, NodeJS, ReactJS, Express, NextJS  |  Blockchain  |  Python Automation  |  Flutter
 -  **Learning :** DevOps
--  **Languages :** Python, C, JavaScript, Dart
+-  **Languages :** Java, Python, C, JavaScript, Dart
 -  **Hobbies :** Blogging, Trekking
 -  **Fact :** First solve the problem, then write the code :heart: 
 
